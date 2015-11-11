@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=lxterminal --title="LeScratch  --LeMaker Team" --command="gksudo 'python /home/lemaker/Documents/LeScratch/LeScratch.py'"
+Icon=scratch
+Terminal=false
+Name=LeScratch
+Comment= Programming system and content development tool
+Categories=Application;Education;Development;ComputerScience;
+MimeType=application/x-scratch-project

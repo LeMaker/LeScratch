@@ -28,7 +28,7 @@ while True:
 	deltatime = currenttime - starttime
  
 	print ""
-	print "Raspberry Pi=\t" + time.strftime("%Y-%m-%d %H:%M:%S")
+	print "LeMaker Guitar=\t" + time.strftime("%Y-%m-%d %H:%M:%S")
 	
 	print "DS1307=\t\t%s" % ds1307.read_datetime()
 
